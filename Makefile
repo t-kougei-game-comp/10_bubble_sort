@@ -7,7 +7,6 @@ $(TARGET): main.c
 	
 test: $(TARGET)
 	@./a.out < ${input} > result.txt
-	@diff result.txt ${expect}
 	@if diff result.txt ${expect} > /dev/null; then \
 		echo "test: OK"; else \
 		echo "test: NG"; \
