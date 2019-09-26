@@ -16,7 +16,7 @@
 
 # テスト結果
 
-[![Build Status](https://travis-ci.com/t-kougei-game-comp/bubble_sort.svg?branch=master)](https://travis-ci.com/t-kougei-game-comp/bubble_sort)
+[![Build Status](https://travis-ci.com/t-kougei-game-comp/10_bubble_sort.svg?branch=master)](https://travis-ci.com/t-kougei-game-comp/10_bubble_sort)
 
 # 今回の問題
 
